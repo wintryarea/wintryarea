@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wintryarea
 - 👀 I’m interested in web design 
-- 🌱 I’m currently learning html,css,js
+- 🌱 I’m currently learning html,css,py
 - 💞️ I’m looking to collaborate on ...
 - 📫 mreza.kp1379@gmail.com
 
